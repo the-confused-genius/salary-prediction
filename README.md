@@ -1,2 +1,2 @@
-# salary-prediction
-Predict the salary, by classification if they get above/below 50k by using the dataset
+# Salary Prediction
+Predict the salary, by classification if the employee's get above/below 50k by using the dataset
