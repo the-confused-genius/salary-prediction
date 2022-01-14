@@ -8,7 +8,7 @@ The dataset contains only the following features
 * relationship	
 * race	
 * gender	
-i* ncome
+* income
 where income is the target or the dependent variable
 
 > I would be using the Logistic Regression to train my model
